@@ -1,0 +1,10 @@
+.offcanvas{
+  background-color: turquoise;
+  text-align: center;
+}
+.offcanvas img{
+  width: 100%;
+  box-shadow: 10px 10px 30px gray;
+  border-radius: 13px;
+  margin-bottom: 25px;
+}
